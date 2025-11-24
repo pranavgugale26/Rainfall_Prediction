@@ -42,11 +42,11 @@ The notebook (`rainfall_prediction.ipynb`) contains:
 
 ## 🖼️ Screenshots
 
-### Snapshot
+### Snapshot_1:
 
 ![](shot_1.png)  
 
-### Snapshot
+### Snapshot_2:
 
 ![](shot_2.png)
 
